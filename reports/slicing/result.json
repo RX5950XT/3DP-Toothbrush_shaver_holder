@@ -1,0 +1,68 @@
+{
+    "error_string": "Success.",
+    "export_time": 564,
+    "layer_height": 0.20000000298023224,
+    "plate_index": 0,
+    "prepare_time": 10,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bottom surface": 69.25537109375,
+                "Bridge": 121.12262725830078,
+                "Brim": 63.2241325378418,
+                "Custom": 376.22650146484375,
+                "Flush": 25.0,
+                "Gap infill": 30.59956932067871,
+                "Inner wall": 2607.13525390625,
+                "Internal solid infill": 360.2564392089844,
+                "Outer wall": 1253.1417236328125,
+                "Overhang wall": 89.76583862304688,
+                "Sparse infill": 2543.301513671875,
+                "Support": 854.9494018554688,
+                "Support interface": 69.10942840576172,
+                "Top surface": 87.20964813232422,
+                "Travel": 2047.3935546875,
+                "Undefined": 2030.42529296875
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFG00",
+                    "id": 1,
+                    "main_used_g": 58.384559631347656,
+                    "total_used_g": 58.384559631347656
+                }
+            ],
+            "generate_support_material_time": 1337,
+            "id": 1,
+            "infill_time": 118,
+            "layer_filament_change": 0,
+            "main_predication": 10172.703125,
+            "make_perimeters_time": 151,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 50.0,
+                        "height": 104.0,
+                        "width": 70.0,
+                        "x": 92.9999771118164,
+                        "y": 103.0,
+                        "z": 0.0
+                    },
+                    "id": 5,
+                    "name": "toothbrush_shaver_holder_v2.stl",
+                    "triangle_count": 4330
+                }
+            ],
+            "sliced_time": 2804,
+            "sliced_time_with_cache": 860,
+            "total_predication": 10581.9609375,
+            "triangle_count": 4330,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 20.0,
+    "wall_loops": 4
+}

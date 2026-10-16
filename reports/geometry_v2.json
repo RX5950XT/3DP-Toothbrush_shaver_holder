@@ -1,0 +1,19 @@
+{
+  "valid": true,
+  "closed": true,
+  "solids": 1,
+  "volume_mm3": 89611.61603560741,
+  "bounds_mm": [
+    70.0,
+    50.0,
+    104.0
+  ],
+  "faces": 230,
+  "edges": 519,
+  "razor_interference_mm3": 0.0,
+  "toothbrush_space_interference_mm3": 0.0,
+  "added_outside_tray_mm3": 0.0,
+  "removed_mm3": 0.0,
+  "rim_height_mm": 2.0,
+  "drain_diameter_mm": 5
+}

@@ -1,0 +1,15 @@
+{
+  "slicer": "BambuStudio 02.07.01.62",
+  "return_code": 0,
+  "warning": "",
+  "support_extrusion_hits": {
+    "tray": 1570,
+    "rail": 1338,
+    "hook_1": 679,
+    "hook_2": 683
+  },
+  "estimated_seconds": 10581.9609375,
+  "estimated_grams": 58.384559631347656,
+  "layers": 520,
+  "project_3mf_valid": true
+}

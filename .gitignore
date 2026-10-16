@@ -1,0 +1,31 @@
+# 本機交接與工作紀錄
+/CONTEXT.md
+/tasks/
+
+# Python、編輯器與系統暫存
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# 本機設定與憑證
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# FreeCAD 備份
+*.FCBak
+*.FCStd[0-9]*
+*.FCStd.*
+*~
+
+# 切片暫存；正式交付的 3MF 保留在 print/
+*.gcode
+/reports/slicing/*.3mf
